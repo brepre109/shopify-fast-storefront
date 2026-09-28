@@ -1,0 +1,23 @@
+node_modules/
+.next/
+out/
+build/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# tests
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# env
+.env
+.env*.local
+
+# misc
+.DS_Store
+*.log
+/lighthouse/*
+!/lighthouse/summary.json
