@@ -1,0 +1,95 @@
+{
+  "measuredAt": "2026-09-28T01:00:52.419Z",
+  "baseUrl": "http://localhost:3417",
+  "runsPerPage": 3,
+  "rows": [
+    {
+      "page": "Collection",
+      "route": "/",
+      "formFactor": "mobile",
+      "runs": [
+        91,
+        96,
+        96
+      ],
+      "scores": {
+        "performance": 96,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2416.1620000000003,
+      "cls": 0,
+      "tbt": 111.00000000000023,
+      "fcp": 1610.054,
+      "version": "13.5.0",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36"
+    },
+    {
+      "page": "Collection",
+      "route": "/",
+      "formFactor": "desktop",
+      "runs": [
+        100,
+        100,
+        100
+      ],
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 591.296,
+      "cls": 0,
+      "tbt": 24,
+      "fcp": 438.432,
+      "version": "13.5.0",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36"
+    },
+    {
+      "page": "Product",
+      "route": "/products/loom-cotton-tee",
+      "formFactor": "mobile",
+      "runs": [
+        87,
+        94,
+        96
+      ],
+      "scores": {
+        "performance": 94,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 2353.9137499999997,
+      "cls": 0,
+      "tbt": 195.61725,
+      "fcp": 1481.7655,
+      "version": "13.5.0",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36"
+    },
+    {
+      "page": "Product",
+      "route": "/products/loom-cotton-tee",
+      "formFactor": "desktop",
+      "runs": [
+        100,
+        100,
+        100
+      ],
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "lcp": 541.03,
+      "cls": 0,
+      "tbt": 22,
+      "fcp": 414.212,
+      "version": "13.5.0",
+      "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36"
+    }
+  ]
+}
